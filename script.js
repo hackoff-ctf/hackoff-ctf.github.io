@@ -34,7 +34,7 @@ const paddle = {
   speed: 8,
   dx: 0,
 };
-let q=35;
+let q=45;
 const brickInfo = {
   w: 70,
   h: 20,
